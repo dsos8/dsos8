@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and electronics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me via email: diana.sosic15@gmail.com
+- 📫 How to reach me: send me a request
 
 <!---
 dsos8/dsos8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
